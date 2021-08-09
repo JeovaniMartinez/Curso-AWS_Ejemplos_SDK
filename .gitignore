@@ -1,0 +1,4 @@
+aws-java-sdk-example-1/.idea/*
+aws-java-sdk-example-1/.gradle/*
+aws-java-sdk-example-1/build/
+*.db
