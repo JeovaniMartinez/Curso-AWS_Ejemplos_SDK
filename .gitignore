@@ -1,4 +1,11 @@
 aws-java-sdk-example-1/.idea/*
 aws-java-sdk-example-1/.gradle/*
 aws-java-sdk-example-1/build/
+
+aws-net-sdk-example-1/.vs/*
+aws-net-sdk-example-1/aws-net-sdk-example-1/bin/*
+aws-net-sdk-example-1/aws-net-sdk-example-1/obj/*
+aws-net-sdk-example-1/packages/*
+
 *.db
+
